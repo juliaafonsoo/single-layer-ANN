@@ -1,5 +1,4 @@
 # The criteria here is to be true (equal to 1) if the input contains a sequence of [0,1]
-# why it doesn't work??
 # 
 
 
